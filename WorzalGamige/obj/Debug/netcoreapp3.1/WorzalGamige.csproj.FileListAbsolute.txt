@@ -1,0 +1,13 @@
+D:\Projects\WorzalGamige\WorzalGamige\bin\Debug\netcoreapp3.1\WorzalGamige.exe
+D:\Projects\WorzalGamige\WorzalGamige\bin\Debug\netcoreapp3.1\WorzalGamige.deps.json
+D:\Projects\WorzalGamige\WorzalGamige\bin\Debug\netcoreapp3.1\WorzalGamige.runtimeconfig.json
+D:\Projects\WorzalGamige\WorzalGamige\bin\Debug\netcoreapp3.1\WorzalGamige.runtimeconfig.dev.json
+D:\Projects\WorzalGamige\WorzalGamige\bin\Debug\netcoreapp3.1\WorzalGamige.dll
+D:\Projects\WorzalGamige\WorzalGamige\bin\Debug\netcoreapp3.1\WorzalGamige.pdb
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.AssemblyInfoInputs.cache
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.AssemblyInfo.cs
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.csproj.CoreCompileInputs.cache
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.dll
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.pdb
+D:\Projects\WorzalGamige\WorzalGamige\obj\Debug\netcoreapp3.1\WorzalGamige.genruntimeconfig.cache
